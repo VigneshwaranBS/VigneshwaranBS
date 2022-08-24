@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**VigneshwaranBS/VigneshwaranBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# VigneshwaranBS.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Authors
+
+
+- [Vigneshwaran BS](https://github.com/vigneshwaran-tech)
+
+
+
+# Hi, I'm Vigneshwaran BS! 👋
+
+
+## 🚀 About Me
+- Student and Developer .
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/vigneshwaran-tech)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwaranbs/)
+
+
+## 🛠 Skills
+ HTML, CSS ,Javascript, VueJs , NextJs , Firebase , Markdown , Python ,
+Java , MY SQL .
+
+## 📞 Support
+
+For support, email bs.vigneshwaran@gmail.com
+
+
+## 🎉Acknowledgements
+
+- Hat tip to anyone whose code was used
+
+- Inspiration
+
+- References
