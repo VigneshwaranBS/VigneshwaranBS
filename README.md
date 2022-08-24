@@ -5,7 +5,7 @@
 ## Authors
 
 
-- [Vigneshwaran BS](https://github.com/vigneshwaran-tech)
+- [Vigneshwaran BS](https://github.com/VigneshwaranBS)
 
 
 
@@ -17,7 +17,7 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/vigneshwaran-tech)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/VigneshwaranBS)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwaranbs/)
 
 
