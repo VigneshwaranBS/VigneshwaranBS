@@ -1,17 +1,3 @@
-<!-- ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="25"> VigneshwaranBS Here</p>
- -->
-## <P align="center"> Hey Vicky here 👋</p>
-<!-- <p align="center"> 
-  <a href="https://github.com/VigneshwaranBS
-  "><img src="https://readme-typing-svg.demolab.comfont=&color=%23F7008F&lines=Student+%2F+Developer+%2F+Athlete+;%F0%9F%9A%80+Front-End+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a> -->
-
-<!-- </p>
- <p align="center">
-  <a href="#"> <img src="assets/2.gif"><a/>
-  <a href="#"><img src="assets/8.gif"><a/>
-  <a href="#"><img src="assets/0.gif"><a/>
-  <a href="#"><img src="assets/6.gif"><a/>
-</p> -->
 ### Header under construction (update soon)
 	  
 <img width="55%" align="right" alt="Github" 
@@ -33,7 +19,28 @@ src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-head
 
 <br>
 
-### aboutMe.Js:
+<h1 align="center">Hey there 👋</h1>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+###
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/VigneshwaranBs" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vigneshwaranbs/" height="25" alt="Linkedin logo"  />
+  <img src="https://img.shields.io/badge/Vigneshwaran-%230077B5.svg?logo=url&logoColor=brightgreen)](https://vigneshwaranbs.com/in/https://www.vigneshwaranbs.com" height="25" alt="portfolio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=VigneshwaranBS&icon=2&color=1"  />
+</div>
+
+
+### AboutMe.Js:
 
 ```javascript
 const VigneshwaranBS = {
