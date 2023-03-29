@@ -118,7 +118,8 @@ const VigneshwaranBS = {
 
 ##  Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=VigneshwaranBs&theme=nord)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- [![](https://gtce.itsvg.in/api?username=VigneshwaranBs&theme=nord)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=VigneshwaranBs&theme=monokai&response=true&border=true&time=true&icon=trophy"/></a>
 
 ###  Random Dev Quote
 
