@@ -92,9 +92,14 @@ const VigneshwaranBS = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshwaranBS&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
- <img width="450em" src="https://github-profile-trophy.vercel.app/?username=VigneshwaranBS
-&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> 
+ <!-- <img width="450em" src="https://github-profile-trophy.vercel.app/?username=VigneshwaranBS&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy">  -->
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshwaranbs" alt="vigneshwaranbs" /></a> </p>
+
+<p align="left">
+</p>
 ### Github contribution:
 
 <h4 align="center">My contribution graph</h4>
