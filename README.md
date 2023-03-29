@@ -1,15 +1,15 @@
 ### Header under construction (update soon)
 	  
-<img width="55%" align="right" alt="Github" 
-src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" 
+src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 <!-- ☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red -->
 
-☞ 〔 🐵 〕 <a href="https://www.sonatech.ac.in/">![SCT](https://img.shields.io/badge/Student-%40SCT-blue)</a>
+<!-- ☞ 〔 🐵 〕 <a href="https://www.sonatech.ac.in/">![SCT](https://img.shields.io/badge/Student-%40SCT-blue)</a> -->
 <!-- <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a>  -->
 
 
-☞ 〔 🐼 〕FRONT END DEV AND ML ENGINNER
+<!-- ☞ 〔 🐼 〕FRONT END DEV AND ML ENGINNER
 
 ☞ 〔 🤾 〕21
 
@@ -17,9 +17,9 @@ src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-head
 
 ☞ 〔 👀 〕![](https://visitcount.itsvg.in/api?id=VigneshwaranBS&icon=2&color=1)
 
-<br>
+<br> -->
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋 </h1>
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -103,7 +103,7 @@ const VigneshwaranBS = {
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshwaranbs" alt="vigneshwaranbs" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=vigneshwaranbs" alt="vigneshwaranbs" /></a> </p>
 
 <p align="left">
 </p>
@@ -111,8 +111,10 @@ const VigneshwaranBS = {
 
 <h4 align="center">My contribution graph</h4>
 
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=VigneshwaranBS
-&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="VigneshwaranBS's Github Graph" /> </p> 
+<!-- <p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=VigneshwaranBS
+&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="VigneshwaranBS's Github Graph" /> </p>  -->
+
+[![VigneshwaranBS's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VigneshwaranBS&bg_color=373436&color=ffe5fd&line=638fb0&point=ffb8b8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Latest Tweet
 
