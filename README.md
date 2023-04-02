@@ -46,7 +46,7 @@ src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-head
 const VigneshwaranBS = {
    pronouns: "he" | "him",
    code: [HTML,JS,CSS,PYTHON],
-   askMeAbout: ["Web Development","AI","DataScience","MachineLearning"],
+   askMeAbout: ["Web Development","DataScience","MachineLearning"],
    technologies: {
        frontEnd: [
            Js: {"VueJs", "ReactJs", "NuxtJs"}
