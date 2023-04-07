@@ -87,7 +87,7 @@ const VigneshwaranBS = {
 
 <p align="left">
 </p>
-### Github contribution:
+
 
 <h4 align="center">My contribution graph</h4>
 
@@ -98,8 +98,7 @@ const VigneshwaranBS = {
 
 ## Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=VigneshwaranBs&theme=nord)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
 
 
 ### Random Dev Quote
