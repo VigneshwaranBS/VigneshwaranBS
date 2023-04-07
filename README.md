@@ -98,7 +98,7 @@ const VigneshwaranBS = {
 
 ## Latest Tweet
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=VigneshwaranBs)](https://github.com/gazf/github-readme-twitter)
 
 
 ### Random Dev Quote
