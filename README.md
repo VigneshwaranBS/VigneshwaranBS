@@ -45,9 +45,7 @@ const VigneshwaranBS = {
 ### Data Science:
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-
 <!-- ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)  -->
-
 ### Programing Languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue) ![android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
@@ -67,7 +65,7 @@ const VigneshwaranBS = {
 
 ### Deployment Platform :
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
 
 ### Tools:
 
@@ -91,15 +89,7 @@ const VigneshwaranBS = {
 
 <h4 align="center">My contribution graph</h4>
 
-<!-- <p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=VigneshwaranBS
-&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="VigneshwaranBS's Github Graph" /> </p>  -->
-
 [![VigneshwaranBS's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VigneshwaranBS&bg_color=373436&color=ffe5fd&line=638fb0&point=ffb8b8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Latest Tweet
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=VigneshwaranBs)](https://github.com/gazf/github-readme-twitter)
-
 
 ### Random Dev Quote
 
@@ -107,17 +97,3 @@ const VigneshwaranBS = {
 
 ---
 
-<!-- ### Github Stats:
- <img width="450em" src="https://github-profile-trophy.vercel.app/?username=VigneshwaranBS
-&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy">  -->
-
-<!-- <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=VigneshwaranBS
-&show_icons=true&locale=en&layout=compact&theme=radical" alt="VigneshwaranBS's Most used lang" />  -->
-
-<!-- ### Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vigneshwaranbs/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/VigneshwaranBs)
-
-[![](https://visitcount.itsvg.in/api?id=VigneshwaranBS&icon=2&color=1)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
