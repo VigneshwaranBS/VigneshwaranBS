@@ -16,30 +16,32 @@
   <img src="https://visitcount.itsvg.in/api?id=VigneshwaranBS&icon=2&color=1"  />
 </div>
 
-### AboutMe.Js:
+### AboutMe.Py:
 
-```javascript
-const VigneshwaranBS = {
-   pronouns: "he" | "him",
-   code: [HTML,JS,CSS,PYTHON],
-   askMeAbout: ["Web Development","DataScience","MachineLearning"],
-   technologies: {
-       frontEnd: [
-           Js: {"VueJs", "ReactJs", "NuxtJs"}
+```Python
+VigneshwaranBS = {
+   "pronouns": "he" | "him",
+   "code": ["HTML", "JS", "CSS", "PYTHON"],
+   "askMeAbout": ["Web Development", "DataScience", "MachineLearning"],
+   "technologies": {
+       "frontEnd": [
+           "Js": ["VueJs", "ReactJs", "NuxtJs"]
        ],
-       backEnd: [
-           Bass: {"firebase"}
+       "backEnd": [
+           "Bass": ["firebase"]
        ],
-       DataScience: [
-           Language: {"Python", "Machine Learning", "Deep Learning"}
+       "DataScience": [
+           "Language": ["Python", "Machine Learning", "Deep Learning"]
        ],
-        Specialization: [
-           Topics: {"Natural Language Processing", "Deep Neural Networks"}
+        "Specialization": [
+           "Topics": ["Natural Language Processing", "Deep Neural Networks"]
        ],
-       competitive: [
-	   InterpretedLang: {"PYTHON"}
-   ]
-};
+       "competitive": [
+	   "InterpretedLang": ["PYTHON"]
+       ]
+   }
+}
+
 ```
 
 ### Data Science:
