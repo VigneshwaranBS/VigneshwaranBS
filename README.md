@@ -83,7 +83,7 @@ VigneshwaranBS = {
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=vigneshwaranbs" alt="vigneshwaranbs" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=VigneshwaranBS&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=vigneshwaranbs" alt="vigneshwaranbs" /></a> </p>
 
 <p align="left">
 </p>
