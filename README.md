@@ -93,7 +93,7 @@ VigneshwaranBS = {
 
 [![VigneshwaranBS's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VigneshwaranBS&bg_color=373436&color=ffe5fd&line=638fb0&point=ffb8b8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![VigneshwaranBS's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VigneshwaranBS&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ### Random Dev Quote
