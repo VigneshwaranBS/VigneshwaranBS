@@ -63,7 +63,7 @@ VigneshwaranBS = {
 ### Backend End:
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Sqlite](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  -->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 
 ### Deployment Platform :
 
