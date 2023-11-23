@@ -23,13 +23,13 @@
 VigneshwaranBS = {
    "pronouns": "he" | "him",
    "code": ["HTML", "JS", "CSS", "PYTHON"],
-   "askMeAbout": ["Web Development", "DataScience", "MachineLearning"],
+   "askMeAbout": ["Web Development", "DataScience", "MachineLearning" ,"DataEnginnering"],
    "technologies": {
        "frontEnd": [
            "Js": ["VueJs", "ReactJs", "NuxtJs"]
        ],
        "backEnd": [
-           "Bass": ["firebase"]
+           "Bass": ["firebase","MongoDB"]
        ],
        "DataScience": [
            "Language": ["Python", "Machine Learning", "Deep Learning"]
