@@ -23,7 +23,7 @@
 VigneshwaranBS = {
    "pronouns": "he" | "him",
    "code": ["HTML", "JS", "CSS", "PYTHON"],
-   "askMeAbout": ["Web Development", "DataScience", "MachineLearning" ,"DataEnginnering"],
+   "askMeAbout": ["Web Development", "DataScience", "Blockchain" ,"DataEnginnering", "Solidity", "DApps"],
    "technologies": {
        "frontEnd": [
            "Js": ["VueJs", "ReactJs", "NuxtJs"]
@@ -34,11 +34,14 @@ VigneshwaranBS = {
        "DataScience": [
            "Language": ["Python", "Machine Learning", "Deep Learning"]
        ],
+		"Blockchain": [
+           "Language": ["Solidity", "Hardhat"]
+       ],
         "Specialization": [
            "Topics": ["Natural Language Processing", "Deep Neural Networks"]
        ],
        "competitive": [
-	   "InterpretedLang": ["PYTHON"]
+	   "InterpretedLang": ["PYTHON","SOLIDITY"]
        ]
    }
 }
