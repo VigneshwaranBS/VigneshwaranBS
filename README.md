@@ -41,7 +41,7 @@ VigneshwaranBS = {
            "Topics": ["Natural Language Processing", "Deep Neural Networks"]
        ],
        "competitive": [
-	   "InterpretedLang": ["PYTHON","SOLIDITY"]
+	   "InterpretedLang": ["Python","Solidity"]
        ]
    }
 }
